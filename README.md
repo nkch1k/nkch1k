@@ -1,6 +1,6 @@
 
 <ul>
-<li>Hey there.<img src="https://c.tenor.com/z2xJqhCpneIAAAAM/wave-hand.gif" alt="hi"></li>
+<li>Hey there.<img src="https://c.tenor.com/z2xJqhCpneIAAAAM/wave-hand.gif" alt="hi" style="width:50px;height:50px;"></li>
 <li>I'm Naum I'm Web/Kotlin developer / UX visual designer.</li>
 <li>I'm From Israel but originaly from russia.</li>
 <li>Here's my website, but also you can rate my projects at <a  href="https://www.figma.com/@naumchik"> Figma</a></li>
