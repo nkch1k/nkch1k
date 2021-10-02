@@ -1,4 +1,4 @@
-<script src="https://unpkg.com/@lottiefiles/lottie-player@latest/dist/lottie-player.js"></script>
+
 <ul>
 <li>Hey there.<img src="https://assets2.lottiefiles.com/packages/lf20_mprazpz2.json" alt="description of gif" /> </li>
 <li>I'm Naum I'm Web/Kotlin developer / UX visual designer.</li>
@@ -11,4 +11,4 @@ You can even <a  href="https://https://www.buymeacoffee.com/naumchik"> Buy me a 
 <hr style="height:3px;width:100%;text-align:center;margin-left:0;background-color:#664E88">
 
 [<img alt="lnkdin" width="30px" align="center" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" />](https://www.linkedin.com/in/naum-khart-12224020b/)
-https://assets2.lottiefiles.com/packages/lf20_mprazpz2.json
+<a href="https://ibb.co/qNHPFqh"><img src="https://i.ibb.co/tq0WPjn/68458-macintosh-hello.gif" alt="68458-macintosh-hello" border="0"></a>
