@@ -1,2 +1,2 @@
 It's very easy to make some words **bold** and other words *italic* with Markdown. You can even [link to Google!](http://google.com)
-<a href="http://google.com" rel="some text">![Foo](![image](https://user-images.githubusercontent.com/78907633/135720552-0c1d47ba-a969-4984-8e8d-363f333b06a1.png))</a>
+<a href="http://google.com" rel="some text">![Foo](![image](https://img-premium.flaticon.com/png/512/739/premium/739257.png?token=exp=1633184833~hmac=9df9d2dbd5187bbc4dc932b0edbfb907))</a>
