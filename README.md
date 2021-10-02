@@ -1,4 +1,3 @@
- Hi, I’m Naum
-  I’m interested in Web/Andoid development and UX design
-   I’m currently learning UX
-    naumkhart@gmail.com
+function test() {
+  console.log("notice the blank line before this function?");
+}
