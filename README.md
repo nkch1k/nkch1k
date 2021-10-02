@@ -2,7 +2,7 @@
 <li>Hey there.</li>
 <li>I'm Naum I'm Web/Kotlin developer / UX visual designer.</li>
 <li>I'm From Israel but originaly from russia.</li>
-<li>Here's my website, but also you can rate my projects at <a style="font-weight:bold" href="https://www.figma.com/@naumchik"> Figma</a></li>
+<li>Here's my website, but also you can rate my projects at <a  href="https://www.figma.com/@naumchik"> Figma</a></li>
 </ul>
 
 You can even [link to Google!](http://google.com)
