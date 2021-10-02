@@ -6,6 +6,5 @@
 </ul>
 
 You can even [Buy me a Coffe]https://www.buymeacoffee.com/naumchik)
-[<hr style="height:3px;width:100%;text-align:center;margin-left:0;background-color:#664E88">
 
 [<img alt="lnkdin" width="30px" align="center" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" />](https://www.linkedin.com/in/naum-khart-12224020b/)
