@@ -5,6 +5,8 @@
 <li>Here's my website, but also you can rate my projects at <a  href="https://www.figma.com/@naumchik"> Figma</a></li>
 </ul>
 
-You can even <a  href="https://www.figma.com/@naumchik"> Buy me a coffee</a>
+You can even <a  href="https://https://www.buymeacoffee.com/naumchik"> Buy me a coffee</a>
+
+<hr style="height:3px;width:100%;text-align:center;margin-left:0;background-color:#664E88">
 
 [<img alt="lnkdin" width="30px" align="center" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" />](https://www.linkedin.com/in/naum-khart-12224020b/)
