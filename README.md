@@ -1,6 +1,6 @@
 
 <ul>
-<li>Hey there.<a href="![image](https://user-images.githubusercontent.com/78907633/135724458-2f35646a-d385-4397-ba20-fc2ed8d66d2e.png)
+<li>Hey there.<a href="![![image](https://user-images.githubusercontent.com/78907633/135724473-787a688c-702f-4944-9b11-bd652042e73e.png)](https://user-images.githubusercontent.com/78907633/135724458-2f35646a-d385-4397-ba20-fc2ed8d66d2e.png)
 " alt=""style="width:50px;height:50px;"  border="0"></a></li>
 <li>I'm Naum I'm Web/Kotlin developer / UX visual designer.</li>
 <li>I'm From Israel but originaly from russia.</li>
