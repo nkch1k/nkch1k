@@ -1,2 +1,5 @@
 It's very easy to make some words **bold** and other words *italic* with Markdown. You can even [link to Google!](http://google.com)
-<img src="https://camo.githubusercontent.com/de3e07b506984dee7e67c44081c9347362f8ca2c48f5ad50aa37795d7f451fcb/68747470733a2f2f696d672e736869656c64732e696f2f747769747465722f666f6c6c6f772f6d6973746572616e6d6f6c3f6c6162656c3d466f6c6c6f77" alt="Twitter Follow" data-canonical-src="https://img.shields.io/twitter/follow/misteranmol?label=Follow" style="max-width: 100%;">
+<img src="https://img-premium.flaticon.com/png/512/739/premium/739257.png?token=exp=1633184833~hmac=9df9d2dbd5187bbc4dc932b0edbfb907" alt="Twitter Follow" data-canonical-src="https://img.shields.io/twitter/follow/misteranmol?label=Follow" style="max-width: 100%;">
+
+
+<img src="https://camo.githubusercontent.com/6655c2ca9723d694c245ae74089cc525d1a23762eb199b9d1a51c49ddddd9833/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d616e6d6f6c2d626c75653f7374796c653d666c61742d737175617265266c6f676f3d4c696e6b6564696e266c6f676f436f6c6f723d7768697465266c696e6b3d68747470733a2f2f7777772e6c696e6b6564696e2e636f6d2f696e2f616e6d6f6c2d702d73696e67682f" alt="Linkedin: anmol" data-canonical-src="https://img.shields.io/badge/-anmol-blue?style=flat-square&amp;logo=Linkedin&amp;logoColor=white&amp;link=https://www.linkedin.com/in/anmol-p-singh/" style="max-width: 100%;">
