@@ -12,7 +12,6 @@
 <img src="https://i.imgur.com/m8LnheQ.png" alt="hi" ">
 <img src="https://i.imgur.com/I1vql7b.png" alt="hi" ">
 
-
-
-
-
+<hr style="height:3px;width:100%;text-align:center;margin-left:0;background-color:#664E88">
+<h1> My Media</h1>
+                                                                                          
