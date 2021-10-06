@@ -1,9 +1,9 @@
 
  # About Me 
-- 🔥 Hey there.<img src="https://c.tenor.com/nebZyl8oN7IAAAAi/wave-hello.gif" alt="hi" style="width:50px;height:50px;">
-- 🔥 I'm Naum I'm a Web/Kotlin developer / UX visual designer ✔.
-- 🔥 I'm From Israel but originally from Russia.
-- 🔥 Here's my website, but also you can rate my projects at <a  href="https://www.figma.com/@naumchik"> Figma</a>
+- Hey there.<img src="https://c.tenor.com/nebZyl8oN7IAAAAi/wave-hello.gif" alt="hi" style="width:50px;height:50px;">
+- I'm Naum I'm a Web/Kotlin developer / UX visual designer .
+- I'm From Israel but originally from Russia.
+- Here's my website, but also you can rate my projects at <a  href="https://www.figma.com/@naumchik"> Figma</a>🔥 
 
 
 <hr style="height:3px;width:100%;text-align:center;margin-left:0;background-color:#664E88">
