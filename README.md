@@ -19,7 +19,7 @@
 
 <hr style="height:3px;width:100%;text-align:center;margin-left:0;background-color:#664E88">
 <h1> Contact Me </h1> 
- <img src="https://img-premium.flaticon.com/png/512/542/premium/542740.png" "alt="ds" href="naumcontact@gmail.com" style="width:42px;height:42px;" >
+ <img src="https://user-images.githubusercontent.com/78907633/136196976-6cdf0bba-dfb0-476b-8b9d-e4cf143f4f7c.png" "alt="ds" href="naumcontact@gmail.com" style="width:42px;height:42px;" >
                                                                                           
                                                                                           
                                      
