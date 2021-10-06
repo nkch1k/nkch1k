@@ -19,7 +19,7 @@
 
 <hr style="height:3px;width:100%;text-align:center;margin-left:0;background-color:#664E88">
 <h1> Contact Me </h1> 
-<img src="https://user-images.githubusercontent.com/78907633/136196175-664e022b-b252-469c-90d4-a46ea781682b.png" alt="hi" href = "mailto: naumcontact@gmail.com">Send Email ">
+<a src="https://user-images.githubusercontent.com/78907633/136196175-664e022b-b252-469c-90d4-a46ea781682b.png" alt="hi" href = "mailto: naumcontact@gmail.com" style="width:42px;height:42px;" >
                                                                                           
                                                                                           
                                      
