@@ -19,7 +19,9 @@
 
 <hr style="height:3px;width:100%;text-align:center;margin-left:0;background-color:#664E88">
 <h1> Contact Me </h1> 
- <img src="https://user-images.githubusercontent.com/78907633/136196976-6cdf0bba-dfb0-476b-8b9d-e4cf143f4f7c.png" "alt="ds" href="naumcontact@gmail.com" style="width:42px;height:42px;" >
+a href="naumcomtact@gmail.com">
+<img alt="zxc" src="https://user-images.githubusercontent.com/78907633/136197274-954cce5c-8ed1-499f-9d16-ebb084ff8366.png"
+width=42" height="42">
                                                                                           
                                                                                           
                                      
