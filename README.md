@@ -23,7 +23,9 @@
 <img alt="zxc" src="https://user-images.githubusercontent.com/78907633/136197274-954cce5c-8ed1-499f-9d16-ebb084ff8366.png"
 width=42" height="42">  
 
-- ![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+) `#f03c15`
+```diff 
+- text in red
+```
        
         
              
