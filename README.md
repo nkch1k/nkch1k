@@ -21,11 +21,10 @@
 <h1> Contact Me </h1> 
 <a href="mailto:naumcomtact@gmail.com">
 <img alt="zxc" src="https://user-images.githubusercontent.com/78907633/136197274-954cce5c-8ed1-499f-9d16-ebb084ff8366.png"
-width=42" height="42">  ()
+width=42" height="42" </img>  
 
 
 
-In his beard lived three <span style="color:red">cardinals</span>.
 
        
         
