@@ -30,3 +30,11 @@ width=42" height="42">
    
     
    
+a[href='red'] {
+    color: red;
+    pointer-events: none;
+    cursor: default;
+    text-decoration: none;
+}
+<a href="red">Look, ma! Red!</a>
+Expand snippet
