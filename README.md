@@ -30,7 +30,7 @@ width=42" height="42">
    
     
    
-a[href='red'] {
+<a[href='red'] {
     color: red;
     pointer-events: none;
     cursor: default;
