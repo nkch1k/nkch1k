@@ -11,7 +11,7 @@
 <img src="https://i.imgur.com/BsfXO5S.png" alt="hi" ">
 <img src="https://i.imgur.com/m8LnheQ.png" alt="hi" ">
 <img src="https://i.imgur.com/I1vql7b.png" alt="hi" ">
-
+In his beard lived three <span style="color:red">cardinals</span>.
 <hr style="height:3px;width:100%;text-align:center;margin-left:0;background-color:#664E88">
 <h1> Social Media</h1>
 <a href="https://www.reddit.com/user/Scripenshi"><img src="https://user-images.githubusercontent.com/78907633/135878796-c53fce1e-cfeb-4859-bc4f-7601a0583ab9.png" alt="hi" style="width:42px;height:42px;"></a>
@@ -23,7 +23,7 @@
 <img alt="zxc" src="https://user-images.githubusercontent.com/78907633/136197274-954cce5c-8ed1-499f-9d16-ebb084ff8366.png"
 width=42" height="42" </img>  
 
-In his beard lived three <span style="color:red">cardinals</span>.
+
 
 
 
