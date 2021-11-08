@@ -37,4 +37,3 @@ a[href='red'] {
     text-decoration: none;
 }
 <a href="red">Look, ma! Red!</a>
-Expand snippet
