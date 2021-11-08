@@ -25,7 +25,7 @@ width=42" height="42">
 
 
 
-Roses are \textcolor{red}{red}, violets are \textcolor{blue}{blue}.
+In his beard lived three <span style="color:red">cardinals</span>.
 
        
         
